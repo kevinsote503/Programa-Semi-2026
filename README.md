@@ -1,1 +1,3 @@
-Debido a inconvenientes técnicos al intentar subir los cambios de manera directa al repositorio, el proyecto completo del Segundo Parcial se adjunta y sube empaquetado en formato de archivo ZIP dentro de este repositorio para garantizar la integridad y entrega exacta de todo el código fuente.
+Debido a inconvenientes técnicos al intentar subir los cambios de manera directa al repositorio, el proyecto completo del Segundo Parcial se adjunta y sube empaquetado en formato de archivo ZIP dentro de este repositorio para garantizar la integridad y entrega exacta de todo el código fuente
+mi usuario es: ustr086626 
+contraseña: mined2002
